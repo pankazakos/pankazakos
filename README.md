@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 
-I'm an undergraduate student at the Department of Informatics and Telecommunications, University of Athens.
+My name is Panagiotis Kazakos and I am an undergraduate student at the Department of Informatics and Telecommunications, University of Athens.
 - I'm mostly interested in full stack web development and data science.
 - I’m currently working on a project as a front-end developer with React.js.
 
