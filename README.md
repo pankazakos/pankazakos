@@ -20,7 +20,7 @@ I'm an undergraduate student at the Department of Informatics and Telecommunicat
 
 ### Most used languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankazakos&exclude_repo=)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankazakos&exclude_repo=&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Technologies:
 
