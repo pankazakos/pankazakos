@@ -22,7 +22,7 @@ I'm an undergraduate student at the Department of Informatics and Telecommunicat
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankazakos&exclude_repo=&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-### Technologies:
+### Technologies ant tools:
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,react,django,css,bootstrap,mui,mysql,postgres,linux,bash,git,docker,vscode,gcp,azure&perline=11)](https://skillicons.dev)
 
