@@ -20,9 +20,9 @@ My name is Panagiotis Kazakos and I am an undergraduate student at the Departmen
 
 ### Most used languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankazakos&exclude_repo=&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankazakos&exclude_repo=berkeley-spring22-AI&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Technologies and tools:
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,react,django,css,bootstrap,mui,mysql,postgres,linux,bash,git,docker,vscode,gcp,azure&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,react,django,css,bootstrap,mui,mysql,postgres,linux,bash,git,docker,vscode,gcp&perline=11)](https://skillicons.dev)
 
