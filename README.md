@@ -20,7 +20,7 @@ My name is Panagiotis Kazakos and I am an undergraduate student at the Departmen
 
 ### Most used languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankazakos&exclude_repo=berkeley-spring22-AI&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankazakos&layout=compact&exclude_repo=berkeley-spring22-AI&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Technologies and tools:
 
