@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 
-My name is Panagiotis Kazakos and I am an undergraduate student at the Department of Informatics and Telecommunications, University of Athens.
-- I'm mostly interested in full stack web development and data science.
-- I’m currently working on a project as a front-end developer with React.js.
+My name is Panagiotis Kazakos and I am an undergraduate student at the Department of Informatics and Telecommunications, University of Athens. I'm mostly interested in full stack web development and data science.
 
 ### Most used languages:
 
@@ -24,5 +22,5 @@ My name is Panagiotis Kazakos and I am an undergraduate student at the Departmen
 
 ### Technologies and tools:
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,react,django,css,bootstrap,mui,mysql,postgres,linux,bash,git,docker,vscode,gcp&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,ts,react,django,css,bootstrap,mui,figma,mysql,postgres,linux,bash,git,docker,&perline=11)](https://skillicons.dev)
 
